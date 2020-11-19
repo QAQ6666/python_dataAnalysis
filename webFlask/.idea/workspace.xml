@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7337265d-026c-4e5e-b8a0-05afaf613633" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="b44f5275-5666-4c57-b36d-7e980e10eb70" />
+  <component name="ProjectId" id="1iIppJnRh0SmJROUSdu2P2DBFgl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DjangoTest" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Colors" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\86189\Desktop\py\practice\webFlask\view" />
+      <recent name="C:\Users\86189\Desktop\py\practice\webFlask\view\templates" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\86189\Desktop\py\practice\webFlask\fun\baseExample" />
+      <recent name="C:\Users\86189\Desktop\py\practice\webFlask\view\templates" />
+      <recent name="C:\Users\86189\Desktop\py\practice\webFlask\view\templates\css" />
+      <recent name="C:\Users\86189\Desktop\py\practice\webFlask\view\templates\js" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.translateWord">
+    <configuration name="EmailSend" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="webFlask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/EmailSend.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LogVerification" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="webFlask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fun/loginModel" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fun/loginModel/LogVerification.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Positiv" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="webFlask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Positiv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="webFlask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/view" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/view/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="translateWord" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="webFlask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/translateWord.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.translateWord" />
+        <item itemvalue="Python.Positiv" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.Positiv" />
+        <item itemvalue="Python.EmailSend" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7337265d-026c-4e5e-b8a0-05afaf613633" name="Default Changelist" comment="" />
+      <created>1601605141455</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601605141455</updated>
+      <workItem from="1601605144236" duration="5279000" />
+      <workItem from="1601610438390" duration="282000" />
+      <workItem from="1601610733496" duration="430000" />
+      <workItem from="1601611171028" duration="238000" />
+      <workItem from="1601611419195" duration="648000" />
+      <workItem from="1601686627645" duration="4324000" />
+      <workItem from="1601773442217" duration="57000" />
+      <workItem from="1601775741572" duration="15602000" />
+      <workItem from="1601864911192" duration="8259000" />
+      <workItem from="1601958584226" duration="3484000" />
+      <workItem from="1602030367223" duration="18809000" />
+      <workItem from="1602065415511" duration="7106000" />
+      <workItem from="1602120493620" duration="14271000" />
+      <workItem from="1602219909316" duration="2444000" />
+      <workItem from="1602296023985" duration="10889000" />
+      <workItem from="1602495241486" duration="1489000" />
+      <workItem from="1602496812214" duration="196000" />
+      <workItem from="1602548902403" duration="3905000" />
+      <workItem from="1602554272623" duration="1767000" />
+      <workItem from="1602562784154" duration="3742000" />
+      <workItem from="1602568410580" duration="115000" />
+      <workItem from="1602571289158" duration="296000" />
+      <workItem from="1602578605943" duration="4080000" />
+      <workItem from="1602588119994" duration="239000" />
+      <workItem from="1602590293584" duration="1065000" />
+      <workItem from="1602591378887" duration="844000" />
+      <workItem from="1602642997998" duration="20547000" />
+      <workItem from="1602751005099" duration="2800000" />
+      <workItem from="1602991560001" duration="6163000" />
+      <workItem from="1603175827723" duration="5037000" />
+      <workItem from="1603184179984" duration="2487000" />
+      <workItem from="1603428169513" duration="3301000" />
+      <workItem from="1603541412981" duration="2150000" />
+      <workItem from="1603590511767" duration="881000" />
+      <workItem from="1603637342383" duration="654000" />
+      <workItem from="1603761750759" duration="362000" />
+      <workItem from="1603780563056" duration="2684000" />
+      <workItem from="1603937301789" duration="1052000" />
+      <workItem from="1603945456182" duration="2563000" />
+      <workItem from="1603986406409" duration="488000" />
+      <workItem from="1604018397838" duration="1296000" />
+      <workItem from="1604022670723" duration="584000" />
+      <workItem from="1604038657004" duration="2101000" />
+      <workItem from="1604106640857" duration="3638000" />
+      <workItem from="1604374905212" duration="378000" />
+      <workItem from="1604393965816" duration="669000" />
+      <workItem from="1604450487724" duration="5049000" />
+      <workItem from="1604544181407" duration="627000" />
+      <workItem from="1604551923189" duration="102000" />
+      <workItem from="1604627899462" duration="5169000" />
+      <workItem from="1604636421310" duration="2905000" />
+      <workItem from="1604661560187" duration="611000" />
+      <workItem from="1604709889119" duration="1716000" />
+      <workItem from="1604801186469" duration="1331000" />
+      <workItem from="1604819661316" duration="336000" />
+      <workItem from="1604840647109" duration="1074000" />
+      <workItem from="1604890327830" duration="4320000" />
+      <workItem from="1604979855382" duration="7578000" />
+      <workItem from="1604995243654" duration="496000" />
+      <workItem from="1605054637021" duration="1759000" />
+      <workItem from="1605060094589" duration="105000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="633" y="95" key="#Inspections" timestamp="1601609896994">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="633" y="95" key="#Inspections/0.0.1536.864@0.0.1536.864" timestamp="1601609896994" />
+    <state x="657" y="69" key="#test_(1)" timestamp="1601610737779">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="657" y="69" key="#test_(1)/0.0.1536.864@0.0.1536.864" timestamp="1601610737779" />
+    <state x="699" y="224" key="FileChooserDialogImpl" timestamp="1605060198735">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="699" y="224" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1605060198735" />
+    <state width="1246" height="195" key="GridCell.Tab.0.bottom" timestamp="1605056404423">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1246" height="195" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1605056404423" />
+    <state width="1246" height="195" key="GridCell.Tab.0.center" timestamp="1605056404423">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1246" height="195" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1605056404423" />
+    <state width="1246" height="195" key="GridCell.Tab.0.left" timestamp="1605056404423">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1246" height="195" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1605056404423" />
+    <state width="1246" height="195" key="GridCell.Tab.0.right" timestamp="1605056404423">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1246" height="195" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1605056404423" />
+    <state width="1170" height="269" key="GridCell.Tab.1.bottom" timestamp="1604711606799">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1170" height="269" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1604711606799" />
+    <state width="1170" height="269" key="GridCell.Tab.1.center" timestamp="1604711606799">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1170" height="269" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1604711606799" />
+    <state width="1170" height="269" key="GridCell.Tab.1.left" timestamp="1604711606799">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1170" height="269" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1604711606799" />
+    <state width="1170" height="269" key="GridCell.Tab.1.right" timestamp="1604711606799">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1170" height="269" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1604711606799" />
+    <state x="428" y="106" key="SettingsEditor" timestamp="1603937484495">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="428" y="106" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1603937484495" />
+    <state x="607" y="60" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604631963708">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="607" y="60" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.864@0.0.1536.864" timestamp="1604631963708" />
+    <state x="560" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1602653068494">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="560" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1602653068494" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/view/test.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/webFlask$cityWeather.coverage" NAME="cityWeather Coverage Results" MODIFIED="1602133242967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/route" />
+    <SUITE FILE_PATH="coverage/webFlask$tableData.coverage" NAME="tableData Coverage Results" MODIFIED="1601789299569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/route" />
+    <SUITE FILE_PATH="coverage/webFlask$translateWord.coverage" NAME="translateWord Coverage Results" MODIFIED="1605055887743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/webFlask$xiushi.coverage" NAME="xiushi Coverage Results" MODIFIED="1602306248277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/route" />
+    <SUITE FILE_PATH="coverage/webFlask$faf.coverage" NAME="faf Coverage Results" MODIFIED="1602129033133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/route" />
+    <SUITE FILE_PATH="coverage/webFlask$weatherFiveFuture.coverage" NAME="weatherFiveFuture Coverage Results" MODIFIED="1602038208820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/route" />
+    <SUITE FILE_PATH="coverage/webFlask$Positiv.coverage" NAME="Positiv Coverage Results" MODIFIED="1604710745564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/webFlask$Ciphertext.coverage" NAME="Ciphertext Coverage Results" MODIFIED="1602998736185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/webFlask$Histogram.coverage" NAME="Histogram Coverage Results" MODIFIED="1602032051037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/route" />
+    <SUITE FILE_PATH="coverage/webFlask$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1601775976405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/route" />
+    <SUITE FILE_PATH="coverage/webFlask$pmTop.coverage" NAME="pmTop Coverage Results" MODIFIED="1602066380248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/route" />
+    <SUITE FILE_PATH="coverage/webFlask$LogVerification.coverage" NAME="LogVerification Coverage Results" MODIFIED="1602998340833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fun/loginModel" />
+    <SUITE FILE_PATH="coverage/webFlask$test.coverage" NAME="test Coverage Results" MODIFIED="1603781130544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/view" />
+    <SUITE FILE_PATH="coverage/webFlask$imgchange.coverage" NAME="imgchange Coverage Results" MODIFIED="1602030399740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/route" />
+    <SUITE FILE_PATH="coverage/webFlask$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1602565268884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/view" />
+    <SUITE FILE_PATH="coverage/webFlask$CiphertextAlgorithm__1_.coverage" NAME="CiphertextAlgorithm (1) Coverage Results" MODIFIED="1602568449323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/view" />
+    <SUITE FILE_PATH="coverage/webFlask$readJson.coverage" NAME="readJson Coverage Results" MODIFIED="1602048649336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/webFlask$attractionsNews.coverage" NAME="attractionsNews Coverage Results" MODIFIED="1602132813392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/route" />
+    <SUITE FILE_PATH="coverage/webFlask$getCitypost.coverage" NAME="getCitypost Coverage Results" MODIFIED="1601961769255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/route" />
+    <SUITE FILE_PATH="coverage/webFlask$xbkDataAnalysis.coverage" NAME="xbkDataAnalysis Coverage Results" MODIFIED="1602137613890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/route" />
+    <SUITE FILE_PATH="coverage/webFlask$CiphertextAlgorithm__2_.coverage" NAME="CiphertextAlgorithm (2) Coverage Results" MODIFIED="1602655535249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../imf" />
+    <SUITE FILE_PATH="coverage/webFlask$travelCount.coverage" NAME="travelCount Coverage Results" MODIFIED="1602069063004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/route" />
+    <SUITE FILE_PATH="coverage/webFlask$sqlDb.coverage" NAME="sqlDb Coverage Results" MODIFIED="1602667965324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+    <SUITE FILE_PATH="coverage/webFlask$EmailSend.coverage" NAME="EmailSend Coverage Results" MODIFIED="1603180994474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tools" />
+  </component>
+</project>

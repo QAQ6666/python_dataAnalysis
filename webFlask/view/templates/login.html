@@ -1,0 +1,80 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+	<title>Home</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="UTF-8" />
+	<meta name="keywords" content=""/>
+	<script>
+		addEventListener("load", function () {
+			setTimeout(hideURLbar, 0);
+		}, false);
+
+		function hideURLbar() {
+			window.scrollTo(0, 1);
+		}
+	</script>
+	<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" type="text/css" media="all" />
+	<link rel="stylesheet" href="{{ url_for('static', filename='css/fontawesome-all.css')}}">
+	<link href="http://maxcdn.bootstrapcdn.com/css?family=Josefin+Sans:100,100i,300,300i,400,400i,600,600i,700,700i" rel="stylesheet">
+	<link href="http://maxcdn.bootstrapcdn.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
+</head>
+
+<body>
+	<div id="bg">
+		<canvas></canvas>
+		<canvas></canvas>
+		<canvas></canvas>
+	</div>
+
+	<h1>Effect Login Form</h1>
+
+	<div class="sub-main-w3">
+		<form action="loginAuthentication" method="post">
+			<h2>Login Now
+				<i class="fas fa-level-down-alt"></i>
+			</h2>
+			<div class="form-style-agile">
+				<label>
+					<i class="fas fa-user"></i>
+					Username
+				</label>
+				<input placeholder="Username" name="Name" type="text" required="">
+				<b>{{u}}</b>
+			</div>
+			<div class="form-style-agile">
+				<label>
+					<i class="fas fa-unlock-alt"></i>
+					Password
+				</label>
+				<input placeholder="Password" name="Password" type="password" required="">
+			</div>
+			<div class="wthree-text">
+				<ul>
+					<li>
+						<label class="anim">
+							<input type="checkbox" class="checkbox" required="">
+							<span>Stay Signed In</span>
+						</label>
+					</li>
+					<li>
+						<a href="#">Forgot Password?</a>
+					</li>
+				</ul>
+			</div>
+			<input type="submit" value="Log In" src="">
+		</form>
+	</div>
+
+	<div class="footer">
+		<p>Copyright &copy; 2020 LingNan Course Desgin to web 菜鸡小队.<a target="_blank" href=""></a></p>
+	</div>
+
+	<script src="{{ url_for('static', filename='js/jquery-3.3.1.min.js') }}"></script>
+
+	<script src="{{ url_for('static', filename='js/canva_moving_effect.js') }}"></script>
+
+</body>
+
+</html>
